@@ -1,0 +1,7 @@
+{
+  "name": "Lumina CRM",
+  "description": "A minimalist, aesthetic CRM inspired by Linear and Attio, featuring AI-powered insights, Kanban pipeline, and integrated billing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
